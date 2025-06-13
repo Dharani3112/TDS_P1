@@ -1,0 +1,33 @@
+What model should I use for GA5 question 8?
+How does GA4 scoring work on the dashboard?
+Should I use Docker or Podman for this course?
+What is the Tools in Data Science course about?
+How are assignments graded in TDS?
+What programming languages are used in TDS?
+What tools and software do I need for this course?
+How do I submit my assignments?
+When is the deadline for GA3?
+What are the submission guidelines?
+Can you explain the course structure?
+How many assignments are there in TDS?
+What is the grading scheme for this course?
+Do I need any specific software installed?
+How do I access the course materials?
+What are the prerequisites for TDS?
+How long does it take to complete assignments?
+Are there any group projects?
+What is the final exam format?
+How do I get help if I'm stuck on an assignment?
+What are office hours for the course?
+How do I contact the teaching assistants?
+What resources are available for learning?
+Are there any video lectures?
+How do I prepare for the exams?
+What topics are covered in each module?
+How much time should I spend on this course weekly?
+What are the most important concepts to focus on?
+Are there practice problems available?
+How do I check my grades?
+How do I install the required dependencies for TDS?
+What is the difference between GA4 and GA5?
+How do I troubleshoot common errors in assignments?
