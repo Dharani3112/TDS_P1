@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  tds-virtual-ta:
+    build: .
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - MONGODB_URL=mongodb://mongo:27017
+      - DATABASE_NAME=tds_virtual_ta
+      - DEBUG=false
+    volumes:
+      - ./app/data:/app/app/data
+    depends_on:
+      - mongo
+    restart: unless-stopped
+
+  mongo:
+    image: mongo:5.0
+    ports:
+      - "27017:27017"
+    volumes:
+      - mongo_data:/data/db
+    restart: unless-stopped
+
+volumes:
+  mongo_data:

@@ -1,0 +1,16 @@
+[
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga5-question-8-clarification/155939",
+    "title": "GA5 Question 8 - Model Selection Clarification",
+    "content": "The question asks to use gpt-3.5-turbo-0125 model but the ai-proxy provided by Anand sir only supports gpt-4o-mini. The correct approach is to use gpt-3.5-turbo-0125 as specified in the question requirements, not gpt-4o-mini from the ai-proxy.",
+    "scraped_at": "2025-06-12 15:46:40",
+    "source_type": "discourse"
+  },
+  {
+    "url": "https://discourse.onlinedegree.iitm.ac.in/t/ga4-data-sourcing-discussion-thread-tds-jan-2025/165959",
+    "title": "GA4 Data Sourcing Discussion - Scoring",
+    "content": "If a student scores 10/10 on GA4 as well as a bonus, it would appear as \"110\" on the dashboard. The dashboard shows the base score plus any bonus points earned.",
+    "scraped_at": "2025-06-12 15:46:40",
+    "source_type": "discourse"
+  }
+]
